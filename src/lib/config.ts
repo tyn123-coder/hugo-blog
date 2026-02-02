@@ -1,7 +1,7 @@
 export const config = {
   site: {
-    title: "Nextjs Blog Template",
-    name: "Nextjs Blog Template",
+    title: "test",
+    name: "test",
     description: "Nextjs Blog Template",
     keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
     url: "https://xxx.com",
