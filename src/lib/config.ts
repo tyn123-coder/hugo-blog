@@ -2,7 +2,7 @@ export const config = {
   site: {
     title: "test",
     name: "test",
-    description: "Nextjs Blog Template",
+    description: "test",
     keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
     url: "https://xxx.com",
     baseUrl: "https://xxx.com",
@@ -15,7 +15,7 @@ export const config = {
     },
     manifest: "/site.webmanifest",
     rss: {
-      title: "Nextjs Blog Template",
+      title: "test",
       description: "Thoughts on Full-stack development, AI",
       feedLinks: {
         rss2: "/rss.xml",
@@ -27,7 +27,7 @@ export const config = {
   author: {
     name: "Your Name",
     email: "your.email@example.com",
-    bio: "这是一个 Nextjs 博客模板",
+    bio: "这是一个 test 博客模板",
   },
   social: {
     github: "https://github.com/xxx",
